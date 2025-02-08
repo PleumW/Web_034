@@ -1,0 +1,46 @@
+img {
+    width: 200px;
+    height: 200px;
+    border: 2px;
+    padding: 2px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+body {
+    border: 2px solid black;
+    padding: 112px;
+    margin: 112px;
+    width: 1000; 
+    font-family: "Itim", serif;
+    background-color: #E4E0E1;
+   
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+    display: flex;
+    
+}
+
+ul {
+    display: flex;
+    margin-right:100 px;
+    justify-content: space-between;
+    border-top: 2px solid black;   
+    border-bottom: 2px solid black; 
+    padding: 10px 0; 
+}
+
+
+ 
